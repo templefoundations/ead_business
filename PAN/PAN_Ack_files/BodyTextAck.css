@@ -1,0 +1,20 @@
+.mytable td { 
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 10px; 
+	font-style: normal;
+}
+.mylist li { 
+font-size: 9px; FONT-FAMILY: Arial
+}
+.myfonttd{
+font-size: 9px; FONT-FAMILY: Arial
+}
+.newlist { 
+font-size: 9px; FONT-FAMILY: Arial
+}
+.newlistbold { 
+font-size: 9px; FONT-FAMILY: Arial; FONT-WEIGHT: bold
+}
+.Textbox {
+	 COLOR: #000000; BORDER-BOTTOM: #ffffff 1px ridge; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #ffffff
+}
